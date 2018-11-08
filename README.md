@@ -1,12 +1,10 @@
 # java-basic-apps
 
 
+socket programming (chat app)
+
 
 calculator java app
 
 
-snake gmae in java
-
-
-
-socket programming (chat app)
+snake game in java
